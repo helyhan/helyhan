@@ -1,16 +1,13 @@
-## Hi there 👋
+### Welcome to My GitHub Account! 👋
 
-<!--
-**helyhan/helyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is **Hannah**, and I have just completed my degree at [Queensland University of Technology](https://www.qut.edu.au/), where I am graduating in August with distinction.
 
-Here are some ideas to get you started:
+#### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bachelor of Information Technology**
+  - Major: Computer Science
+  - Minor: Data-centric Computing
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hannah-hely-7b3b77216/).
+
+Thank you for visiting my GitHub profile!
