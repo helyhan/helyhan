@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Account! 👋
 
-Hello! My name is **Hannah**, and I have just completed my degree at [Queensland University of Technology](https://www.qut.edu.au/), where I am graduating in August with distinction.
+Hello! My name is **Hannah**, and I have just completed my degree at [Queensland University of Technology](https://www.qut.edu.au/), where I am graduating in August 2024 with distinction.
 
 #### Education
 
